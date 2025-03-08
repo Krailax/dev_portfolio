@@ -8,7 +8,7 @@ Este es un proyecto web que sirve como plantilla para crear un portafolio person
 
 ## 🔗 URL para Previsualización
 
-https://dev-portfolio-krailax.vercel.app/
+https://dev-portfolio-efo.pages.dev/
 
 
 ## Instalación y Uso
