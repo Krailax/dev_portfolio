@@ -3,6 +3,9 @@
 ## Descripción
 Este es un proyecto web que sirve como plantilla para crear un portafolio personal. Cualquier persona que desee utilizarlo puede hacerlo, ya que cuenta con una licencia abierta.
 
+![alt text](image.png)
+
+
 ## 🔗 URL para Previsualización
 
 
