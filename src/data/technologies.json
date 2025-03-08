@@ -1,0 +1,44 @@
+[
+    {
+        "name": "React",
+        "icon": "IReact.svg",
+        "width": 65,
+        "height": 65
+    },
+    {
+        "name": "Nest js",
+        "icon": "INestjs.svg",
+        "width": 65,
+        "height": 65
+    },
+    {
+        "name": "Node",
+        "icon": "INode.svg",
+        "width": 65,
+        "height": 65
+    },
+    {
+        "name": "PHP",
+        "icon": "IPhp.svg",
+        "width": 65,
+        "height": 65
+    },
+    {
+        "name": "Tailwindcss",
+        "icon": "ITailwindcss.svg",
+        "width": 65,
+        "height": 65
+    },
+    {
+        "name": "Vue",
+        "icon": "IVue.svg",
+        "width": 65,
+        "height": 65
+    },
+    {
+        "name": "Next js",
+        "icon": "INextjs.svg",
+        "width": 65,
+        "height": 65
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "name_image": "IService2.webp",
+    "my_speciality": "Full Stack Developer",
+    "my_name": "Krailax",
+    "name_vitae": "vitae.pdf",
+    "redes_sociales": [
+        {
+            "title": "LinkedIn",
+            "url": "https://www.linkedin.com/in/exampleexampleexampleexampleexample"
+        },
+        {
+            "title": "Twitter",
+            "url": "https://twitter.com/exampleexampleexampleexampleexample"
+        },
+        {
+            "title": "GitHub",
+            "url": "https://github.com/exampleexampleexampleexampleexample"
+        },
+        {
+            "title": "Instagram",
+            "url": "https://www.instagram.com/exampleexampleexampleexampleexampleexample"
+        },
+        {
+            "title": "Facebook",
+            "url": "https://www.facebook.com/"
+        }
+    ]
+}

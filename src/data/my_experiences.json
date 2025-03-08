@@ -1,0 +1,52 @@
+[
+   
+    { 
+        "role": "Analista de Datos Senior",
+        "company_name": "Tech Solutions Inc.",
+        "description": "Lideré un equipo de análisis de datos para identificar tendencias de mercado, reduciendo costos en un 15% mediante optimización de procesos. Desarrollé modelos estadísticos avanzados para predecir la demanda de productos y ajustar la estrategia de ventas. Diseñé y mantuve bases de datos en PostgreSQL, asegurando la integridad y accesibilidad de la información.",
+        "project_duration": "Mayo 2023 - Diciembre 2023 ",
+        "link": ""
+    },
+    { 
+        "role": "Especialista en Ciencia de Datos",
+        "company_name": "Data Insights Corp.",
+        "description": "Implementé modelos de machine learning para la predicción de demanda, aumentando la precisión en un 25% y mejorando la toma de decisiones estratégicas. Utilicé bibliotecas como Scikit-Learn y TensorFlow para entrenar modelos de regresión y clasificación. Desarrollé pipelines de datos automatizados para la ingesta, limpieza y procesamiento de información.",
+        "project_duration": "Enero 2022 - Octubre 2022 ",
+        "link": "https://www.datainsights.com"
+    },
+    { 
+        "role": "Consultor de Análisis de Datos",
+        "company_name": "Business Analytics Group",
+        "description": "Desarrollé dashboards interactivos con Power BI y Tableau, proporcionando visualizaciones clave para la toma de decisiones ejecutivas. Diseñé reportes automatizados que consolidaban datos de múltiples fuentes, mejorando la eficiencia en la gestión empresarial. Trabajé con SQL y DAX para la optimización de consultas y cálculos avanzados.",
+        "project_duration": "Marzo 2021 - Julio 2021 ",
+        "link": "https://www.businessanalytics.com"
+    },
+    { 
+        "role": "Ingeniero de Datos",
+        "company_name": "BigData Solutions",
+        "description": "Desarrollé pipelines de datos optimizados en Apache Spark y Airflow para mejorar el procesamiento de datos en tiempo real. Implementé estrategias de almacenamiento en AWS Redshift, reduciendo los costos de infraestructura en un 30%. Diseñé y administré ETLs eficientes para integrar datos desde múltiples fuentes empresariales.",
+        "project_duration": "Febrero 2023 - Noviembre 2023",
+        "link": "https://www.bigdatasolutions.com"
+    },
+    { 
+        "role": "Científico de Datos",
+        "company_name": "AI Analytics Lab",
+        "description": "Creé modelos de deep learning para análisis de sentimiento en redes sociales, aumentando la precisión de las predicciones en un 40%. Desarrollé sistemas de recomendación basados en aprendizaje automático, incrementando la retención de clientes en un 18%. Optimicé modelos de NLP utilizando transformers y redes neuronales convolucionales.",
+        "project_duration": "Junio 2022 - Abril 2023",
+        "link": "https://www.aianalyticslab.com"
+    },
+    { 
+        "role": "Analista de Datos Financieros",
+        "company_name": "FinTech Insights",
+        "description": "Analicé datos de transacciones financieras para detectar patrones de fraude, reduciendo el riesgo de pérdida en un 12%. Implementé modelos de clasificación y clustering en Python para segmentación de clientes y personalización de servicios. Automatizé reportes financieros utilizando Power BI y SQL, mejorando la eficiencia del departamento financiero.",
+        "project_duration": "Enero 2021 - Agosto 2021",
+        "link": "https://www.fintechinsights.com"
+    },
+    { 
+        "role": "Desarrollador de Soluciones de Datos",
+        "company_name": "DataTech Innovations",
+        "description": "Construí APIs de datos escalables en FastAPI y Flask para facilitar el acceso y consulta de información empresarial. Diseñé modelos de predicción de series temporales para optimización de inventarios y planificación de recursos. Gestioné bases de datos en MongoDB y PostgreSQL, asegurando la eficiencia y seguridad en la manipulación de datos.",
+        "project_duration": "Septiembre 2020 - Mayo 2021",
+        "link": "https://www.datatechinnovations.com"
+    }
+]

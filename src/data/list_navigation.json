@@ -1,0 +1,8 @@
+[
+    { "title": "Inicio", "url": "/"},
+    { "title": "Tecnologías", "url": "/Tecnologia" },
+    { "title": "Proyectos", "url": "/Proyectos"},
+    { "title": "Servicios", "url": "/Servicios"},
+    { "title": "Experiencia", "url": "/Experiencia"},
+    { "title": "Sobre Mí", "url": "/Sobre_Mi"}
+]

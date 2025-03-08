@@ -1,0 +1,126 @@
+[
+    {
+        "group": "Backend",
+        "list_tecnologies": [
+            {
+                "name": "Node js",
+                "img": "INode.svg",
+                "experience_years": 2,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            },
+            {
+                "name": "Nest js",
+                "img": "INestjs.svg",
+                "experience_years": 2,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            },
+            {
+                "name": "Next js",
+                "img": "INextjs.svg",
+                "experience_years": 1,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            },
+            {
+                "name": "Php",
+                "img": "IPhp.svg",
+                "experience_years": 1,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            }        
+        ]
+    },
+    {
+        "group": "Frontend",
+        "list_tecnologies": [
+            {
+                "name": "React js",
+                "img": "IReact.svg",
+                "experience_years": 2,
+                "level": "Semi-Senior",
+                "width" : 50,
+                "height" : 50 
+            },
+            {
+                "name": "Vue js",
+                "img": "IVue.svg",
+                "experience_years": 1,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            },
+            {
+                "name": "Tailwindcss",
+                "img": "ITailwindcss.svg",
+                "experience_years": 1,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            },
+            {
+                "name": "Angular",
+                "img": "IAngular.svg",
+                "experience_years": 1,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            }
+        ]
+    },
+    {
+        "group": "Bases de Datos",
+        "list_tecnologies": [
+            {
+                "name": "Sqlite",
+                "img": "ISqlite.svg",
+                "experience_years": 2,
+                "level": "Junior",
+                "width" : 90,
+                "height" : 80 
+            },
+            {
+                "name": "PostgreSQL",
+                "img": "IPostgresql.svg",
+                "experience_years": 1,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            },
+            {
+                "name": "MySQL",
+                "img": "IMysql.svg",
+                "experience_years": 1,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            }
+        ]
+    },
+    {
+        "group": "CSM",
+        "list_tecnologies": [
+            {
+                "name": "Docker",
+                "img": "IShopify.svg",
+                "experience_years": 1,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            },
+            {
+                "name": "AWS",
+                "img": "IStrapi.svg",
+                "experience_years": 1,
+                "level": "Junior",
+                "width" : 50,
+                "height" : 50 
+            }
+        ]
+    }
+]

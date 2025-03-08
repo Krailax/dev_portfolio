@@ -1,0 +1,9 @@
+{
+    "general_description": "Soy un desarrollador frontend con pasión por crear experiencias digitales fluidas, intuitivas y accesibles. Me especializo en tecnologías modernas como React y Next.js, y disfruto trabajar en proyectos innovadores que desafíen mis habilidades.",
+    "what_I_am_looking_for": "Busco un rol en una empresa tecnológica que valore el trabajo en equipo, la innovación y el crecimiento profesional. Me interesa colaborar en proyectos desafiantes que tengan impacto y aporten soluciones tecnológicas de calidad.",
+    "goals": "Mi objetivo es crecer como desarrollador full-stack, especializándome en arquitecturas escalables y buenas prácticas en el desarrollo web. A futuro, me gustaría liderar equipos de desarrollo y contribuir activamente a la comunidad tech.",
+    "challenges": "Uno de los mayores desafíos que enfrenté fue optimizar el rendimiento de una aplicación en Next.js que tenía un alto tráfico de usuarios. Implementé estrategias de renderizado eficiente y caching, logrando una mejora del 40% en el tiempo de carga.",
+    "collaborations": "Estoy abierto a participar en proyectos open-source, hackatones y comunidades tecnológicas donde pueda aportar mis conocimientos y seguir aprendiendo de otros profesionales.",
+    "community_contributions": ["Contribuciones en librerías de React", "Charlas y mentorías en eventos de Vercel", "Participación en comunidades open-source"],
+    "project_types": ["Desarrollo Web", "E-commerce", "Aplicaciones Móviles", "Plataformas SaaS"]
+}

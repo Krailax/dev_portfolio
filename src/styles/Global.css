@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+body{
+    overflow-x: hidden;
+    background: #1f1f1f;
+    color: #e3e2e9;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mask-fade {
+    -webkit-mask-image: linear-gradient(to right, transparent, black 20%, black 80%, transparent);
+    mask-image: linear-gradient(to right, transparent, black 20%, black 80%, transparent);
+}
+  
+
+@theme {
+  --color-primary: #1f1f1f;
+ 
+}

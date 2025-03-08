@@ -1,0 +1,82 @@
+[
+    {
+        "title_project": "Tienda Online Moderna",
+        "description": "Una plataforma de comercio electrónico intuitiva y segura, con una interfaz optimizada para mejorar la experiencia del usuario y aumentar las conversiones.",
+        "list_image": [
+            {
+                "name_image": "Página Principal",
+                "image": "Ecommerce/Image.webp",
+                "width": 60,
+                "height": 80
+            },
+            {
+                "name_image": "Vista de Producto",
+                "image": "Ecommerce/Image1.webp",
+                "width": 60,
+                "height": 80
+            }
+        ],
+        "list_technologies": [
+            "Python",
+            "JavaScript",
+            "Django",
+            "React"
+        ],
+        "url": "https://www.google.com/"
+    },
+    {
+        "title_project": "Ecommerce Inteligente",
+        "description": "Un sistema de ventas en línea con gestión de inventario en tiempo real, pasarelas de pago seguras y un diseño adaptable a todos los dispositivos.",
+        "list_image": [
+            {
+                "name_image": "Página de Inicio",
+                "image": "Tienda/Image1.webp",
+                "width": 60,
+                "height": 80
+            }
+        ],
+        "list_technologies": [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Vue.js"
+        ],
+        "url": "https://www.google.com/"
+    },
+    {
+        "title_project": "Portfolio para Modelos",
+        "description": "Un sitio web moderno y visualmente atractivo diseñado para modelos que desean mostrar su portafolio de manera profesional.",
+        "list_image": [
+            {
+                "name_image": "Galería de Imágenes",
+                "image": "Modelos/Image1.webp",
+                "width": 60,
+                "height": 80
+            }
+        ],
+        "list_technologies": [
+            "Next.js",
+            "Tailwind CSS",
+            "Firebase"
+        ],
+        "url": "https://www.google.com/"
+    },
+    {
+        "title_project": "Plataforma de Venta de Productos",
+        "description": "Una tienda en línea versátil con categorización avanzada, filtros dinámicos y un sistema de carrito de compras eficiente.",
+        "list_image": [
+            {
+                "name_image": "Página de Productos",
+                "image": "Objetos/Image1.webp",
+                "width": 60,
+                "height": 80
+            }
+        ],
+        "list_technologies": [
+            "Flask",
+            "PostgreSQL",
+            "Bootstrap"
+        ],
+        "url": "https://www.google.com/"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name_service": "Desarrollo de Aplicaciones Web",
+        "description": "Creamos aplicaciones web personalizadas y optimizadas, adaptadas a las necesidades del cliente. Utilizamos tecnologías modernas para garantizar rendimiento, seguridad y escalabilidad.",
+        "title_image": "Desarrollo Web",
+        "image": "IServices1.webp",
+        "width": 50,
+        "height": 50,
+        "url": "https://www.tuservicio.com/desarrollo-web"
+    },
+    {
+        "name_service": "Consultoría en Ciencia de Datos",
+        "description": "Brindamos asesoramiento experto en análisis de datos, machine learning y big data para ayudar a las empresas a tomar decisiones estratégicas basadas en datos.",
+        "title_image": "Consultoría en Datos",
+        "image": "IService2.webp",
+        "width": 50,
+        "height": 50,
+        "url": "https://www.tuservicio.com/consultoria-datos"
+    },
+    {
+        "name_service": "Automatización de Procesos",
+        "description": "Optimizamos flujos de trabajo mediante la implementación de soluciones de automatización con RPA, reduciendo costos y mejorando la eficiencia operativa.",
+        "title_image": "Automatización",
+        "image": "IService2.webp",
+        "width": 50,
+        "height": 50,
+        "url": "https://www.tuservicio.com/automatizacion"
+    },
+    {
+        "name_service": "Desarrollo de APIs y Microservicios",
+        "description": "Diseñamos e implementamos APIs escalables y microservicios robustos para mejorar la integración de sistemas y la conectividad entre aplicaciones.",
+        "title_image": "APIs y Microservicios",
+        "image": "IService2.webp",
+        "width": 50,
+        "height": 50,
+        "url": "https://www.tuservicio.com/apis-microservicios"
+    },
+    {
+        "name_service": "Seguridad y Protección de Datos",
+        "description": "Implementamos soluciones avanzadas de ciberseguridad para proteger la información de tu empresa contra amenazas y ataques informáticos.",
+        "title_image": "Ciberseguridad",
+        "image": "IService2.webp",
+        "width": 50,
+        "height": 50,
+        "url": "https://www.tuservicio.com/ciberseguridad"
+    }
+]
